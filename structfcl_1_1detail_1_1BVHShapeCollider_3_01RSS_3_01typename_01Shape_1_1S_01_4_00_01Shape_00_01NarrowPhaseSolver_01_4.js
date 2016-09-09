@@ -1,4 +1,0 @@
-var structfcl_1_1detail_1_1BVHShapeCollider_3_01RSS_3_01typename_01Shape_1_1S_01_4_00_01Shape_00_01NarrowPhaseSolver_01_4 =
-[
-    [ "S", "structfcl_1_1detail_1_1BVHShapeCollider_3_01RSS_3_01typename_01Shape_1_1S_01_4_00_01Shape_00_01NarrowPhaseSolver_01_4.html#a88baf960be83ce01ce6149874c45d3c5", null ]
-];
